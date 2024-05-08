@@ -74,7 +74,6 @@
 
     <!--================ Start of our Content =================-->
     <?php echo $content; ?>
-    <?php echo $content; ?>
     <!--================ End of our Content =================-->
 
     <!--================ Start footer Area  =================-->
